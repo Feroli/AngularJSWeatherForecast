@@ -1,0 +1,20 @@
+<div layout="row">
+
+    <div class="searchPage" flex offset="34">
+
+        <h3>Forecast by city</h3>
+
+        <form ng-submit="submit()">
+            <md-input-container class="inputCont" md-no-float flex>
+                <label>City Name</label>
+                <input type="text" ng-model="result1" id="Autocomplete" ng-autocomplete="result1" details="details1"
+                       options="options1" aria-label="city search" placeholder=""/>
+            </md-input-container>
+            <md-button type="submit" class="md-raised md-primary btn1" value="Get Forecast">Get Forecast</md-button>
+
+
+        </form>
+
+    </div>
+
+</div>

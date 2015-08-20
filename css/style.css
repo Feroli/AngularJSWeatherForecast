@@ -1,0 +1,78 @@
+footer{
+clear: both;
+margin-top: 50px;
+    text-align: center;
+}
+header{
+    clear: both;
+}
+.searchPage {
+    margin-top: 180px;
+}
+
+.inputCont{
+    
+    width: 45%;
+}
+
+
+
+
+.forecast {
+    padding-top: 75px;
+
+    
+}
+
+
+.btn1 {
+  color : rgb(49, 46, 46);
+  background-color: rgba(255, 222, 121, 0.96);
+  border-radius: 0;
+text-transform: none;
+  font-size: 16px;
+}
+
+.btn1:not([disabled]):hover {
+  background-color: rgba(107, 103, 91, 0.96);
+  color: white;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+
+}
+.btn1[disabled] {
+  color : rgb(187, 187, 187);
+  background-color: rgba(230, 230, 229, 0.96);
+}
+
+a.md-button.md-raised, .md-button.md-raised{
+    background-color: #7ea7d8;
+}
+
+
+.md-button.md-primary.btn1 {   background-color: rgba(126, 167, 216,1);}
+
+.md-button.md-primary.btn1:not([disabled]):hover {   background-color: rgb(83, 128, 181);     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+}
+.md-button.md-primary.btn1[disabled] {   background-color: #7ea7d8; }
+
+
+
+/*raised*/
+
+.md-button.md-raised.md-primary.btn1 {   background-color: rgba(126, 167, 216,0.9);}
+.md-button.md-raised.md-primary.btn1[disabled] { background-color: rgb(83, 128, 181);  }
+.md-button.md-raised.md-primary.btn1:not([disabled]) {
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+    background-color: rgba(126, 167, 216,0.8);
+}
+
+.active{
+    color: darkred;
+}
+
+a.md-button.md-primary.md-raised, a.md-button.md-primary.md-fab, .md-button.md-primary.md-raised, .md-button.md-primary.md-fab {
+    color: rgba(255,255,255,0.87);
+
+    background-color: rgba(30, 102, 216, 0.5);
+}
+
