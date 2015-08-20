@@ -24,8 +24,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.87731814">
-              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.51355207">
+              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -99,7 +99,6 @@
         <option value="$PROJECT_DIR$/directives/autoComplete.js" />
         <option value="$PROJECT_DIR$/controllers/ForecastCtrl.js" />
         <option value="$PROJECT_DIR$/controllers/SearchCtrl.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/controllers/ForecastCtrlDaily.js" />
         <option value="$PROJECT_DIR$/pages/forecast.html" />
@@ -107,6 +106,7 @@
         <option value="$PROJECT_DIR$/templates/ThreeDays.html" />
         <option value="$PROJECT_DIR$/templates/SevenDays.html" />
         <option value="$PROJECT_DIR$/pages/forecastDaily.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -776,8 +776,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.87731814">
-          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.51355207">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
           <folding />
         </state>
       </provider>
